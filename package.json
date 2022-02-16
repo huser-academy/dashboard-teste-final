@@ -1,0 +1,12 @@
+{
+  "name": "academy-api-ao-vivo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "start": "npx json-server --watch db.json"
+  }
+}
