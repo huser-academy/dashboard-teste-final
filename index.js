@@ -6,8 +6,6 @@ const { loginMock, userMock, menuMock, moreSoldProductsMock, resellersRankingMoc
 const app = express();
 const port = 8080;
 
-const jsonResponse = require("./db.json");
-
 app.use(express.json());
 app.use(cors());
 
