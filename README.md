@@ -56,7 +56,7 @@ Objeto product
 | ------------- | ------------- | -------------------- |
 | name          | string        | Nome do produto      |
 | orderId       | string        | Número do pedido     |
-| department    | boolean       | Nome do departamento |
+| department    | string       | Nome do departamento |
 | price         | number        | Preço do produto     |
 | image         | string        | Imagem do produto    |
 
